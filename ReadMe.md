@@ -14,7 +14,7 @@ Intensive use of NoSQL terminology.
 Planned
 
 ## Credits
-UC Utbildning as teaching organization.
+ [EC Utbildning](https://www.ecutbildning.se) as teaching organization.
 
 ## License
 A short snippet describing the license (MIT, Apache etc)
